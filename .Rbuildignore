@@ -39,3 +39,7 @@ docs/*
 ^\.github$
 ^inst/extdata/example_dwi\.zip$
 ^CRAN-SUBMISSION$
+^DESCRIPTION\.bak$
+^autoci\.yml$
+^autoci_pkgdown\.yml$
+^tic\.R$
